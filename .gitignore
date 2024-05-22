@@ -1,6 +1,7 @@
 /build/
 /bin/
 /lib/
+/cmake-build-debug
 
 *.tmp
 *.log
