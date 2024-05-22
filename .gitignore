@@ -1,0 +1,15 @@
+/build/
+/bin/
+/lib/
+
+*.tmp
+*.log
+*.cache
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+
+.DS_Store
+Thumbs.db
