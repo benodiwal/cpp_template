@@ -4,4 +4,5 @@ set(SOURCES
         module/helper.cpp
 )
 
-add_executable(cpp_template ${SOURCES})
+add_library(cpp_template_lib ${SOURCES})
+add_executable(cpp_template main.cpp)
